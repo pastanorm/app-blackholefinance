@@ -1,1 +1,1 @@
-{ "rewrites": [{ "source": "/(.*)", "destination": "/ethereum/index.html" }] } 
+{ "routes": [{ "src": "/[^.]+", "dest": "/", "status": 200 },{ "src": "/", "dest": "/ethereum" }] }
