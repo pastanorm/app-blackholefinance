@@ -1,0 +1,1 @@
+{ "routes": [{ "src": "/[^.]+", "dest": "/ethereum", "status": 200 }] }
